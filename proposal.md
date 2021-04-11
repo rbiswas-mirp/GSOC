@@ -9,7 +9,7 @@
 
 **University:** Kalinga Institute of Industrial Technology
 
-**Github:** @rbiswas-mirl
+**Github:** @rbiswas-mirp
 
 **Twitter:** @biswasrahul16
 
@@ -523,7 +523,7 @@ Communication
 
 I’m very flexible with my schedule and already have the habit of working at night and hence timezone variation (with my mentor) won’t be an issue. I’m comfortable with any form of communication that suits my mentor. Below are the various options available:
 
--   **Email:** shivam.cs.iit.kgp@gmail.com
+-   **Email:** biswasrahul016@gmail.com
 
 -   **Phone (Call, WhatsApp and Allo):** (+91) *hidden*
 
